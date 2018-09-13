@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TEST</string>
+    <string name="home">主页</string>
+    <string name="station">站点</string>
+    <string name="account">我的</string>
+</resources>
